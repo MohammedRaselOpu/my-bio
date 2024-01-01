@@ -6,7 +6,7 @@ Welcome to the repository for My Bio! This repository contains a simple HTML web
 
 The HTML webpage in this repository displays the following information:
 
-- Name: Md Rasel Opu
+- Name: Md Rasel Opu.
 - Email: mdrasel.opu.9@gmail.com
 - GitHub: [GitHub Profile](https://github.com/MohammedRaselOpu)
 - Hobbies:
