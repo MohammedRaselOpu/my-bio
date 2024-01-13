@@ -10,9 +10,9 @@ The HTML webpage in this repository displays the following information:
 - Email: mdrasel.opu.9@gmail.com
 - GitHub: [GitHub Profile](https://github.com/MohammedRaselOpu)
 - Hobbies:
-  - Spending Quality times with loving ones
-  - Touring
-  - Trying best to be a proper Muslim
+  - Spending Quality times with loving ones.
+  - Touring.
+  - Trying best to be a proper Muslim.
 
 ## Usage
 
